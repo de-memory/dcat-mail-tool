@@ -1,7 +1,7 @@
 {
     "name": "de-memory/dcat-mail-tool",
-    "alias": "DcatAdmin邮箱工具",
-    "description": "DcatAdmin邮箱工具",
+    "alias": "邮箱工具",
+    "description": "Dcat Admin邮箱工具",
     "type": "library",
     "keywords": ["dcat-admin", "extension"],
     "homepage": "https://github.com/de-memory/dcat-mail-tool",
